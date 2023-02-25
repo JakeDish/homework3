@@ -1,7 +1,7 @@
 # homework3
 https://jakedish.github.io/homework3/
 
-[screenshot](/assets/image/screenshot.png)
+![screenshot](/assets/image/screenshot.png)
 
 Using the confirm method, the user is asked for the parameters of a new password. Options include number of characters and the composition of said characters including upper/lower case, special characters and numbers.
 
